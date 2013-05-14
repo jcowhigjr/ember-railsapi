@@ -1,8 +1,7 @@
 App.User = DS.Model.extend(
-  firstName: attr('string')
-  lastName:  attr('string')
-  quote:     attr('string')
-  age:       attr('number')
+  firstName: DS.attr('string', defaultValue: '')
+  lastName:  DS.attr('string', defaultValue: '')
+  quote:     DS.attr('string')
   fullName: (->
     "#{@get('firstName')} #{@get('lastName')}"
   ).property('firstName', 'lastName')

@@ -4,9 +4,9 @@ App.UsersEditController = Ember.ObjectController.extend
     @store.commit()
     @transitionTo('users.index')
 
-  update: ->
-    @store.commit()
-    @transitionTo('users.show', @content)
+  save: ->
+    @content.save().then =>
+      @transitionToRoute('users.show', @content)
 
   cancel: ->
     if @content.isDirty
