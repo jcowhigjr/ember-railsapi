@@ -1,5 +1,8 @@
+// Version: v1.0.0-rc.3-272-g4c74b2d
+// Last commit: 4c74b2d (2013-05-21 12:35:21 -0700)
 
-n() {
+
+(function() {
 /*global __fail__*/
 
 /**
@@ -1417,10 +1420,10 @@ var populateListeners = function(name) {
 };
 
 var time = (function() {
-  var perf = 'undefined' !== typeof window ? window.performance || {} : {};
-  var fn = perf.now || perf.mozNow || perf.webkitNow || perf.msNow || perf.oNow;
-  // fn.bind will be available in all the browsers that support the advanced window.performance... ;-)
-  return fn ? fn.bind(perf) : function() { return +new Date(); };
+	var perf = 'undefined' !== typeof window ? window.performance || {} : {};
+	var fn = perf.now || perf.mozNow || perf.webkitNow || perf.msNow || perf.oNow;
+	// fn.bind will be available in all the browsers that support the advanced window.performance... ;-)
+	return fn ? fn.bind(perf) : function() { return +new Date(); };
 })();
 
 
@@ -9268,7 +9271,7 @@ Ember.Array = Ember.Mixin.create(Ember.Enumerable, /** @scope Ember.Array.protot
     This returns the objects at the specified indexes, using `objectAt`.
 
     ```javascript
-    var arr =Â ['a', 'b', 'c', 'd'];
+    var arr = ['a', 'b', 'c', 'd'];
     arr.objectsAt([0, 1, 2]);  // ["a", "b", "c"]
     arr.objectsAt([2, 3, 4]);  // ["c", "d", undefined]
     ```
@@ -18539,7 +18542,7 @@ define("metamorph",
     "use strict";
     // ==========================================================================
     // Project:   metamorph
-    // Copyright: Â©2011 My Company Inc. All rights reserved.
+    // Copyright: ©2011 My Company Inc. All rights reserved.
     // ==========================================================================
 
     var K = function(){},
@@ -19013,7 +19016,7 @@ if(!Handlebars && typeof require === 'function') {
 }
 
 Ember.assert("Ember Handlebars requires Handlebars version 1.0.0-rc.4. Include a SCRIPT tag in the HTML HEAD linking to the Handlebars file before you link to Ember.", Handlebars)
-Ember.assert("Ember Handlebars requires Handlebars version 1.0.0-rc.4, COMPILER_REVISION expected: 3, got: " +  Handlebars.COMPILER_REVISION + " â€“ Please note: Builds of master may have other COMPILER_REVISION values.", Handlebars.COMPILER_REVISION === 3);
+Ember.assert("Ember Handlebars requires Handlebars version 1.0.0-rc.4, COMPILER_REVISION expected: 3, got: " +  Handlebars.COMPILER_REVISION + " – Please note: Builds of master may have other COMPILER_REVISION values.", Handlebars.COMPILER_REVISION === 3);
 
 /**
   Prepares the Handlebars templating library for use inside Ember's view
@@ -20565,7 +20568,7 @@ EmberHandlebars.registerHelper('unless', function(context, options) {
   ```
 
   All three strategies - string return value, boolean return value, and
-  hard-coded value â€“ can be combined in a single declaration:
+  hard-coded value – can be combined in a single declaration:
 
   ```handlebars
   <img {{bindAttr class=":class-name-to-always-apply view.someBool:class-name-if-true view.someProperty"}}>
