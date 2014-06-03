@@ -1,0 +1,685 @@
+Script started on Tue Jun  3 12:52:29 2014
+]2;jcowhigjr@localhost: ~/src/ember/ember-railsapi]1;ember-railsapi
+^X^C[1m[7m%[27m[1m[0m                                                                                                                                                                                  [0m[27m[24m[J[01;32m~/s/e/[4member-railsapi[24m[00m[33m[00m [36m»[00m [K[124C [01;30m[00m [01;33m± develop*:8392130[00m 12:52:35 [154D[4ms[24m[4ms[4mc[24m[4ms[4mc[4mr[24m[4mr[4mi[24m[4mi[4mp[24m[24m[32ms[24m[32mc[24m[32mr[24m[32mi[24m[32mp[32mt[39m [4m.[24m
+script: .: Is a directory
+[1m[7m%[27m[1m[0m                                                                                                                                                                                  [0m[27m[24m[J[01;32m~/s/e/[4member-railsapi[24m[00m[33m[00m [36m»[00m [K[124C [01;30m[00m [01;33m± develop*:8392130[00m 12:52:37 [154D[32mscript[39m [4m.[24m[24m [4ml[24m[4ml[4mo[24m[4mo[4mg[24m
+script: log: Is a directory
+[1m[7m%[27m[1m[0m                                                                                                                                                                                  [0m[27m[24m[J[01;32m~/s/e/[4member-railsapi[24m[00m[33m[00m [36m»[00m [K[124C [01;30m[00m [01;33m± develop*:8392130[00m 12:52:41 [154D[4ms[24m[4ms[4mc[24m[4ms[4mc[4mr[24m[4mr[4mi[24m[4mi[4mp[24m[24m[32ms[24m[32mc[24m[32mr[24m[32mi[24m[32mp[32mt[39m [4md[24m[24mdev.log     [4md[24m [24m [4mc[24m[4mc[4mo[24m[4mo[4mn[24m[24mc[24mo[24mnsole.log       [4mc[4mo[4mn[24m [4mo[24m[24m [4mc[24m[24m [24m [4mt[24m[24mter [4mt[24m [24m [4mc[24m[24mcli-l  .log
+Script started, output file is cli.log
+]2;jcowhigjr@localhost: ~/src/ember/ember-railsapi]1;ember-railsapi
+
+
+
+
+
+
+[1m[7m%[27m[1m[0m                                                                                                                                                                                  [0m[27m[24m[J[01;32m~/s/e/[4member-railsapi[24m[00m[33m[00m [36m»[00m [K[124C [01;30m[00m [01;33m± develop*:8392130[00m 12:53:11 [154D
+[1m[7m%[27m[1m[0m                                                                                                                                                                                  [0m[27m[24m[J[01;32m~/s/e/[4member-railsapi[24m[00m[33m[00m [36m»[00m [K[124C [01;30m[00m [01;33m± develop*:8392130[00m 12:53:11 [154D
+[1m[7m%[27m[1m[0m                                                                                                                                                                                  [0m[27m[24m[J[01;32m~/s/e/[4member-railsapi[24m[00m[33m[00m [36m»[00m [K[124C [01;30m[00m [01;33m± develop*:8392130[00m 12:53:11 [154D
+[1m[7m%[27m[1m[0m                                                                                                                                                                                  [0m[27m[24m[J[01;32m~/s/e/[4member-railsapi[24m[00m[33m[00m [36m»[00m [K[124C [01;30m[00m [01;33m± develop*:8392130[00m 12:53:11 [154D
+[1m[7m%[27m[1m[0m                                                                                                                                                                                  [0m[27m[24m[J[01;32m~/s/e/[4member-railsapi[24m[00m[33m[00m [36m»[00m [K[124C [01;30m[00m [01;33m± develop*:8392130[00m 12:53:11 [154D
+[1m[7m%[27m[1m[0m                                                                                                                                                                                  [0m[27m[24m[J[01;32m~/s/e/[4member-railsapi[24m[00m[33m[00m [36m»[00m [K[124C [01;30m[00m [01;33m± develop*:8392130[00m 12:53:11 [154D
+[1m[7m%[27m[1m[0m                                                                                                                                                                                  [0m[27m[24m[J[01;32m~/s/e/[4member-railsapi[24m[00m[33m[00m [36m»[00m [K[124C [01;30m[00m [01;33m± develop*:8392130[00m 12:53:11 [154D
+[1m[7m%[27m[1m[0m                                                                                                                                                                                  [0m[27m[24m[J[01;32m~/s/e/[4member-railsapi[24m[00m[33m[00m [36m»[00m [K[124C [01;30m[00m [01;33m± develop*:8392130[00m 12:53:12 [154D[32mscript[39m [4mcli.log[24m[4ml[4mo[4mg[24m[24m [24m [24m [24m [4m.[24m[24m [24m [24m [1m[33me[1m[33mc[1m[33mh[1m[33mo[0m[39m[39m [1m[32m'[1m[32mrails-api application new .'[0m[39m >> [4mREADME.md[24m[47D[0m[32ms[0m[32mc[0m[32mr[0m[32mi[32mp[0m[32mt[39m[0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m     [24m [24m [24m [24m [24m [24m [24m [24m [24m [41D[1m[33me[1m[33mc[1m[33mh[1m[33mo[0m[39m[39m [1m[32m'[1m[32mrails-api application new .'[0m[39m >> [4mREADME.md[24m[47D[0m[32mb[0m[32mu[0m[32mn[0m[32md[32ml[0m[32me[39m[0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m [0m[39m     [24m [24m [24m [24m [24m [24m [24m [24m [24m [41D[1m[35ml[1m[35ms[0m[39m[39m [39m [39m [39m [1m[33mc[1m[33md[0m[39m ember-railsapi[14D[4m.[4m.[24m            [12D[0m[32mr[0m[32ma[32mi[24m[32ml[24m[32ms[32m-api[39m application new [4m.[24m[24m  [4m.[24m
+[1m[34m       exist[0m  
+[1m[34m   identical[0m  README.rdoc
+[1m[31m    conflict[0m  Rakefile
+Overwrite /Users/jcowhigjr/src/ember/ember-railsapi/Rakefile? (enter "h" for help) [Ynaqdh] d
+--- /Users/jcowhigjr/src/ember/ember-railsapi/Rakefile	2014-06-03 12:04:11.000000000 -0400
++++ /Users/jcowhigjr/src/ember/ember-railsapi/Rakefile20140603-51739-qa5lwd	2014-06-03 12:53:25.000000000 -0400
+@@ -4,4 +4,4 @@
+ 
+ require File.expand_path('../config/application', __FILE__)
+ 
+-EmberRailsAPI::Application.load_tasks
++EmberRailsapi::Application.load_tasks
+Retrying...
+Overwrite /Users/jcowhigjr/src/ember/ember-railsapi/Rakefile? (enter "h" for help) [Ynaqdh] Y
+[1m[33m       force[0m  Rakefile
+[1m[31m    conflict[0m  config.ru
+Overwrite /Users/jcowhigjr/src/ember/ember-railsapi/config.ru? (enter "h" for help) [Ynaqdh] d
+--- /Users/jcowhigjr/src/ember/ember-railsapi/config.ru	2014-06-03 12:04:11.000000000 -0400
++++ /Users/jcowhigjr/src/ember/ember-railsapi/config.ru20140603-51739-cnzml0	2014-06-03 12:53:36.000000000 -0400
+@@ -1,4 +1,4 @@
+ # This file is used by Rack-based servers to start the application.
+ 
+ require ::File.expand_path('../config/environment',  __FILE__)
+-run EmberRailsAPI::Application
++run EmberRailsapi::Application
+Retrying...
+Overwrite /Users/jcowhigjr/src/ember/ember-railsapi/config.ru? (enter "h" for help) [Ynaqdh] Yk  q
+Aborting...
+[1m[7m%[27m[1m[0m                                                                                                                                                                                  [0m[27m[24m[J[01;32m~/s/e/[4member-railsapi[24m[00m[33m[00m [36m»[00m [K[124C [01;30m[00m [01;33m± develop*:8392130[00m 12:54:06 [154D[1m[41mg[0m[49m[0m[49m [32mrails-api[39m application new [4m.[24m
+[1m[34m       exist[0m  
+[1m[34m   identical[0m  README.rdoc
+[1m[34m   identical[0m  Rakefile
+[1m[31m    conflict[0m  config.ru
+Overwrite /Users/jcowhigjr/src/ember/ember-railsapi/config.ru? (enter "h" for help) [Ynaqdh] d
+--- /Users/jcowhigjr/src/ember/ember-railsapi/config.ru	2014-06-03 12:04:11.000000000 -0400
++++ /Users/jcowhigjr/src/ember/ember-railsapi/config.ru20140603-51919-1qzigjb	2014-06-03 12:54:13.000000000 -0400
+@@ -1,4 +1,4 @@
+ # This file is used by Rack-based servers to start the application.
+ 
+ require ::File.expand_path('../config/environment',  __FILE__)
+-run EmberRailsAPI::Application
++run EmberRailsapi::Application
+Retrying...
+Overwrite /Users/jcowhigjr/src/ember/ember-railsapi/config.ru? (enter "h" for help) [Ynaqdh] n
+[1m[33m        skip[0m  config.ru
+[1m[31m    conflict[0m  .gitignore
+Overwrite /Users/jcowhigjr/src/ember/ember-railsapi/.gitignore? (enter "h" for help) [Ynaqdh] d
+--- /Users/jcowhigjr/src/ember/ember-railsapi/.gitignore	2014-06-03 12:04:11.000000000 -0400
++++ /Users/jcowhigjr/src/ember/ember-railsapi/.gitignore20140603-51919-wzkr8s	2014-06-03 12:54:21.000000000 -0400
+@@ -1,20 +1,15 @@
+-.bundle
+-log/*.log
+-/log/*.pid
+-tmp/*
+-/coverage/*
+-public/system/*
+-public/stylesheets/compiled/*
+-config/database.yml
+-db/*.sqlite3
+-db/structure.sql
+-*.swp
+-*.swo
+-.DS_Store
+-**/.DS_STORE
+-.sass-cache/*
+-bundler_stubs/*
+-binstubs/*
+-bin/*
+-public/uploads
+-public/assets/*
++# See http://help.github.com/ignore-files/ for more about ignoring files.
++#
++# If you find yourself ignoring temporary files generated by your text editor
++# or operating system, you probably want to add a global ignore instead:
++#   git config --global core.excludesfile ~/.gitignore_global
++
++# Ignore bundler config
++/.bundle
++
++# Ignore the default SQLite database.
++/db/*.sqlite3
++
++# Ignore all logfiles and tempfiles.
++/log/*.log
++/tmp
+Retrying...
+Overwrite /Users/jcowhigjr/src/ember/ember-railsapi/.gitignore? (enter "h" for help) [Ynaqdh] n
+[1m[33m        skip[0m  .gitignore
+[1m[31m    conflict[0m  Gemfile
+Overwrite /Users/jcowhigjr/src/ember/ember-railsapi/Gemfile? (enter "h" for help) [Ynaqdh] d
+--- /Users/jcowhigjr/src/ember/ember-railsapi/Gemfile	2014-06-03 12:04:11.000000000 -0400
++++ /Users/jcowhigjr/src/ember/ember-railsapi/Gemfile20140603-51919-1rh2w6g	2014-06-03 12:54:41.000000000 -0400
+@@ -1,30 +1,38 @@
+ source 'https://rubygems.org'
+ 
+-ruby '2.0.0'
+-
+ gem 'rails', '3.2.13'
+-gem 'rails-api'
+-gem 'thin'
+-gem 'active_model_serializers', :github => 'rails-api/active_model_serializers'
+-
+-group :development, :test do
+-  gem 'debugger'
+-  gem 'sqlite3'
+-end
+ 
+-group :production do
+-  gem 'pg'
+-end
++# Bundle edge Rails instead:
++# gem 'rails', :git => 'git://github.com/rails/rails.git'
++
++gem 'sqlite3'
+ 
++
++# Gems used only for assets and not required
++# in production environments by default.
+ group :assets do
+-  gem 'sass-rails', '~> 3.2'
+-  gem 'coffee-rails', '~> 3.2'
+-  gem 'compass-rails'
+-  gem 'uglifier'
+-  gem 'bootstrap-sass', '~> 2.0.3.0'
+-  gem 'handlebars_assets'
+-end
++  gem 'sass-rails',   '~> 3.2.3'
++  gem 'coffee-rails', '~> 3.2.1'
++
++  # See https://github.com/sstephenson/execjs#readme for more supported runtimes
++  # gem 'therubyracer', :platforms => :ruby
+ 
+-group :development do
+-  gem 'quiet_assets'
++  gem 'uglifier', '>= 1.0.3'
+ end
++
++gem 'jquery-rails'
++
++# To use ActiveModel has_secure_password
++# gem 'bcrypt-ruby', '~> 3.0.0'
++
++# To use Jbuilder templates for JSON
++# gem 'jbuilder'
++
++# Use unicorn as the app server
++# gem 'unicorn'
++
++# Deploy with Capistrano
++# gem 'capistrano'
++
++# To use debugger
++# gem 'debugger'
+Retrying...
+Overwrite /Users/jcowhigjr/src/ember/ember-railsapi/Gemfile? (enter "h" for help) [Ynaqdh] n
+[1m[33m        skip[0m  Gemfile
+[1m[34m       exist[0m  app
+[1m[32m      create[0m  app/assets/images/rails.png
+[1m[32m      create[0m  app/assets/javascripts/application.js
+[1m[32m      create[0m  app/assets/stylesheets/application.css
+[1m[31m    conflict[0m  app/controllers/application_controller.rb
+Overwrite /Users/jcowhigjr/src/ember/ember-railsapi/app/controllers/application_controller.rb? (enter "h" for help) [Ynaqdh] d
+--- /Users/jcowhigjr/src/ember/ember-railsapi/app/controllers/application_controller.rb	2014-06-03 12:04:11.000000000 -0400
++++ /Users/jcowhigjr/src/ember/ember-railsapi/app/controllers/application_controller.rb20140603-51919-1kn9qp7	2014-06-03 12:55:08.000000000 -0400
+@@ -1,14 +1,3 @@
+-class ApplicationController < ActionController::API
+-
+-  def render(*args)
+-    if args.first.key?(:json) && args.first[:json].kind_of?(ActiveRecord::Base) && !args.first.key?(:status)
+-      if args.first[:json].destroyed?
+-        args.first[:status] = 204
+-      elsif args.first[:json].created?
+-        args.first[:status] = 201
+-      end
+-    end
+-
+-    super
+-  end
++class ApplicationController < ActionController::Base
++  protect_from_forgery
+ end
+Retrying...
+Overwrite /Users/jcowhigjr/src/ember/ember-railsapi/app/controllers/application_controller.rb? (enter "h" for help) [Ynaqdh] aaaa    n
+[1m[33m        skip[0m  app/controllers/application_controller.rb
+[1m[32m      create[0m  app/helpers/application_helper.rb
+[1m[32m      create[0m  app/views/layouts/application.html.erb
+[1m[34m   identical[0m  app/mailers/.gitkeep
+[1m[34m   identical[0m  app/models/.gitkeep
+[1m[34m       exist[0m  config
+[1m[31m    conflict[0m  config/routes.rb
+Overwrite /Users/jcowhigjr/src/ember/ember-railsapi/config/routes.rb? (enter "h" for help) [Ynaqdh] d
+--- /Users/jcowhigjr/src/ember/ember-railsapi/config/routes.rb	2014-06-03 12:04:11.000000000 -0400
++++ /Users/jcowhigjr/src/ember/ember-railsapi/config/routes.rb20140603-51919-1k8bars	2014-06-03 12:56:10.000000000 -0400
+@@ -1,17 +1,58 @@
+-EmberRailsAPI::Application.routes.draw do
+-  class FormatTest
+-    attr_accessor :mime_type
+-
+-    def initialize(format)
+-      @mime_type = Mime::Type.lookup_by_extension(format)
+-    end
+-
+-    def matches?(request)
+-      request.format == mime_type
+-    end
+-  end
+-
+-  resources :users, :except => :edit, :constraints => FormatTest.new(:json)
+-  get '*foo', :to => 'ember#index', :constraints => FormatTest.new(:html)
+-  get '/', :to => 'ember#index', :constraints => FormatTest.new(:html)
++EmberRailsapi::Application.routes.draw do
++  # The priority is based upon order of creation:
++  # first created -> highest priority.
++
++  # Sample of regular route:
++  #   match 'products/:id' => 'catalog#view'
++  # Keep in mind you can assign values other than :controller and :action
++
++  # Sample of named route:
++  #   match 'products/:id/purchase' => 'catalog#purchase', :as => :purchase
++  # This route can be invoked with purchase_url(:id => product.id)
++
++  # Sample resource route (maps HTTP verbs to controller actions automatically):
++  #   resources :products
++
++  # Sample resource route with options:
++  #   resources :products do
++  #     member do
++  #       get 'short'
++  #       post 'toggle'
++  #     end
++  #
++  #     collection do
++  #       get 'sold'
++  #     end
++  #   end
++
++  # Sample resource route with sub-resources:
++  #   resources :products do
++  #     resources :comments, :sales
++  #     resource :seller
++  #   end
++
++  # Sample resource route with more complex sub-resources
++  #   resources :products do
++  #     resources :comments
++  #     resources :sales do
++  #       get 'recent', :on => :collection
++  #     end
++  #   end
++
++  # Sample resource route within a namespace:
++  #   namespace :admin do
++  #     # Directs /admin/products/* to Admin::ProductsController
++  #     # (app/controllers/admin/products_controller.rb)
++  #     resources :products
++  #   end
++
++  # You can have the root of your site routed with "root"
++  # just remember to delete public/index.html.
++  # root :to => 'welcome#index'
++
++  # See how all your routes lay out with "rake routes"
++
++  # This is a legacy wild controller route that's not recommended for RESTful applications.
++  # Note: This route will make all actions in every controller accessible via GET requests.
++  # match ':controller(/:action(/:id))(.:format)'
+ end
+Retrying...
+Overwrite /Users/jcowhigjr/src/ember/ember-railsapi/config/routes.rb? (enter "h" for help) [Ynaqdh] ^@^@^@n       n
+[1m[33m        skip[0m  config/routes.rb
+[1m[31m    conflict[0m  config/application.rb
+Overwrite /Users/jcowhigjr/src/ember/ember-railsapi/config/application.rb? (enter "h" for help) [Ynaqdh] d
+--- /Users/jcowhigjr/src/ember/ember-railsapi/config/application.rb	2014-06-03 12:04:11.000000000 -0400
++++ /Users/jcowhigjr/src/ember/ember-railsapi/config/application.rb20140603-51919-nd0slc	2014-06-03 13:00:04.000000000 -0400
+@@ -9,7 +9,7 @@
+   # Bundler.require(:default, :assets, Rails.env)
+ end
+ 
+-module EmberRailsAPI
++module EmberRailsapi
+   class Application < Rails::Application
+     # Settings in config/environments/* take precedence over those specified here.
+     # Application configuration should go into files in config/initializers
+Retrying...
+Overwrite /Users/jcowhigjr/src/ember/ember-railsapi/config/application.rb? (enter "h" for help) [Ynaqdh] n
+[1m[33m        skip[0m  config/application.rb
+[1m[31m    conflict[0m  config/environment.rb
+Overwrite /Users/jcowhigjr/src/ember/ember-railsapi/config/environment.rb? (enter "h" for help) [Ynaqdh] d
+--- /Users/jcowhigjr/src/ember/ember-railsapi/config/environment.rb	2014-06-03 12:04:11.000000000 -0400
++++ /Users/jcowhigjr/src/ember/ember-railsapi/config/environment.rb20140603-51919-1drgqtt	2014-06-03 13:00:15.000000000 -0400
+@@ -2,4 +2,4 @@
+ require File.expand_path('../application', __FILE__)
+ 
+ # Initialize the rails application
+-EmberRailsAPI::Application.initialize!
++EmberRailsapi::Application.initialize!
+Retrying...
+Overwrite /Users/jcowhigjr/src/ember/ember-railsapi/config/environment.rb? (enter "h" for help) [Ynaqdh] n
+[1m[33m        skip[0m  config/environment.rb
+[1m[34m       exist[0m  config/environments
+[1m[31m    conflict[0m  config/environments/development.rb
+Overwrite /Users/jcowhigjr/src/ember/ember-railsapi/config/environments/development.rb? (enter "h" for help) [Ynaqdh] d
+--- /Users/jcowhigjr/src/ember/ember-railsapi/config/environments/development.rb	2014-06-03 12:04:11.000000000 -0400
++++ /Users/jcowhigjr/src/ember/ember-railsapi/config/environments/development.rb20140603-51919-11wzrex	2014-06-03 13:00:20.000000000 -0400
+@@ -1,4 +1,4 @@
+-EmberRailsAPI::Application.configure do
++EmberRailsapi::Application.configure do
+   # Settings specified here will take precedence over those in config/application.rb
+ 
+   # In the development environment your application's code is reloaded on
+Retrying...
+Overwrite /Users/jcowhigjr/src/ember/ember-railsapi/config/environments/development.rb? (enter "h" for help) [Ynaqdh] n
+[1m[33m        skip[0m  config/environments/development.rb
+[1m[31m    conflict[0m  config/environments/production.rb
+Overwrite /Users/jcowhigjr/src/ember/ember-railsapi/config/environments/production.rb? (enter "h" for help) [Ynaqdh] d
+--- /Users/jcowhigjr/src/ember/ember-railsapi/config/environments/production.rb	2014-06-03 12:04:11.000000000 -0400
++++ /Users/jcowhigjr/src/ember/ember-railsapi/config/environments/production.rb20140603-51919-1lw2xed	2014-06-03 13:00:28.000000000 -0400
+@@ -1,4 +1,4 @@
+-EmberRailsAPI::Application.configure do
++EmberRailsapi::Application.configure do
+   # Settings specified here will take precedence over those in config/application.rb
+ 
+   # Code is not reloaded between requests
+@@ -9,7 +9,7 @@
+   config.action_controller.perform_caching = true
+ 
+   # Disable Rails's static asset server (Apache or nginx will already do this)
+-  config.serve_static_assets = true
++  config.serve_static_assets = false
+ 
+   # Compress JavaScripts and CSS
+   config.assets.compress = true
+Retrying...
+Overwrite /Users/jcowhigjr/src/ember/ember-railsapi/config/environments/production.rb? (enter "h" for help) [Ynaqdh] ^@  n
+[1m[33m        skip[0m  config/environments/production.rb
+[1m[31m    conflict[0m  config/environments/test.rb
+Overwrite /Users/jcowhigjr/src/ember/ember-railsapi/config/environments/test.rb? (enter "h" for help) [Ynaqdh] d
+--- /Users/jcowhigjr/src/ember/ember-railsapi/config/environments/test.rb	2014-06-03 12:04:11.000000000 -0400
++++ /Users/jcowhigjr/src/ember/ember-railsapi/config/environments/test.rb20140603-51919-rja842	2014-06-03 13:02:28.000000000 -0400
+@@ -1,4 +1,4 @@
+-EmberRailsAPI::Application.configure do
++EmberRailsapi::Application.configure do
+   # Settings specified here will take precedence over those in config/application.rb
+ 
+   # The test environment is used exclusively to run your application's
+Retrying...
+Overwrite /Users/jcowhigjr/src/ember/ember-railsapi/config/environments/test.rb? (enter "h" for help) [Ynaqdh] n
+[1m[33m        skip[0m  config/environments/test.rb
+[1m[34m       exist[0m  config/initializers
+[1m[32m      create[0m  config/initializers/backtrace_silencers.rb
+[1m[32m      create[0m  config/initializers/inflections.rb
+[1m[32m      create[0m  config/initializers/mime_types.rb
+[1m[32m      create[0m  config/initializers/secret_token.rb
+[1m[32m      create[0m  config/initializers/session_store.rb
+[1m[31m    conflict[0m  config/initializers/wrap_parameters.rb
+Overwrite /Users/jcowhigjr/src/ember/ember-railsapi/config/initializers/wrap_parameters.rb? (enter "h" for help) [Ynaqdh] d
+--- /Users/jcowhigjr/src/ember/ember-railsapi/config/initializers/wrap_parameters.rb	2014-06-03 12:04:11.000000000 -0400
++++ /Users/jcowhigjr/src/ember/ember-railsapi/config/initializers/wrap_parameters.rb20140603-51919-802s7u	2014-06-03 13:02:47.000000000 -0400
+@@ -1,13 +1,14 @@
+ # Be sure to restart your server when you modify this file.
+ #
+-# This file contains settings for ActionController::ParamsWrapper
++# This file contains settings for ActionController::ParamsWrapper which
++# is enabled by default.
+ 
+-# Enable parameter wrapping for JSON.
+-# ActiveSupport.on_load(:action_controller) do
+-#   wrap_parameters format: [:json] if respond_to?(:wrap_parameters)
+-# end
++# Enable parameter wrapping for JSON. You can disable this by setting :format to an empty array.
++ActiveSupport.on_load(:action_controller) do
++  wrap_parameters format: [:json]
++end
+ 
+-# To enable root element in JSON for ActiveRecord objects.
+-# ActiveSupport.on_load(:active_record) do
+-#  self.include_root_in_json = true
+-# end
++# Disable root element in JSON by default.
++ActiveSupport.on_load(:active_record) do
++  self.include_root_in_json = false
++end
+Retrying...
+Overwrite /Users/jcowhigjr/src/ember/ember-railsapi/config/initializers/wrap_parameters.rb? (enter "h" for help) [Ynaqdh] ^@^@    bn  n
+[1m[33m        skip[0m  config/initializers/wrap_parameters.rb
+[1m[34m       exist[0m  config/locales
+[1m[34m   identical[0m  config/locales/en.yml
+[1m[34m   identical[0m  config/boot.rb
+[1m[32m      create[0m  config/database.yml
+[1m[34m       exist[0m  db
+[1m[31m    conflict[0m  db/seeds.rb
+Overwrite /Users/jcowhigjr/src/ember/ember-railsapi/db/seeds.rb? (enter "h" for help) [Ynaqdh] d
+--- /Users/jcowhigjr/src/ember/ember-railsapi/db/seeds.rb	2014-06-03 12:04:11.000000000 -0400
++++ /Users/jcowhigjr/src/ember/ember-railsapi/db/seeds.rb20140603-51919-jcwzaz	2014-06-03 13:05:29.000000000 -0400
+@@ -5,6 +5,3 @@
+ #
+ #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
+ #   Mayor.create(name: 'Emanuel', city: cities.first)
+-
+-User.create(:first_name => 'William', :last_name => 'Harrison', :age => 68, :quote => "I'm just singin' in the rain!")
+-User.create(:first_name => 'Abraham', :last_name => 'Lincoln', :age => 56, :quote => "I'd like to see a show tonight.")
+Retrying...
+Overwrite /Users/jcowhigjr/src/ember/ember-railsapi/db/seeds.rb? (enter "h" for help) [Ynaqdh] n
+[1m[33m        skip[0m  db/seeds.rb
+[1m[34m       exist[0m  doc
+[1m[34m   identical[0m  doc/README_FOR_APP
+[1m[34m       exist[0m  lib
+[1m[34m       exist[0m  lib/tasks
+[1m[34m   identical[0m  lib/tasks/.gitkeep
+[1m[34m       exist[0m  lib/assets
+[1m[34m   identical[0m  lib/assets/.gitkeep
+[1m[34m       exist[0m  log
+[1m[34m   identical[0m  log/.gitkeep
+[1m[34m       exist[0m  public
+[1m[34m   identical[0m  public/404.html
+[1m[34m   identical[0m  public/422.html
+[1m[34m   identical[0m  public/500.html
+[1m[34m   identical[0m  public/favicon.ico
+[1m[32m      create[0m  public/index.html
+[1m[34m   identical[0m  public/robots.txt
+[1m[34m       exist[0m  script
+[1m[34m   identical[0m  script/rails
+[1m[32m      create[0m  test/fixtures
+[1m[32m      create[0m  test/fixtures/.gitkeep
+[1m[32m      create[0m  test/functional
+[1m[32m      create[0m  test/functional/.gitkeep
+[1m[32m      create[0m  test/integration
+[1m[32m      create[0m  test/integration/.gitkeep
+[1m[32m      create[0m  test/unit
+[1m[32m      create[0m  test/unit/.gitkeep
+[1m[32m      create[0m  test/performance/browsing_test.rb
+[1m[32m      create[0m  test/test_helper.rb
+[1m[32m      create[0m  tmp/cache
+[1m[32m      create[0m  tmp/cache/assets
+[1m[34m       exist[0m  vendor/assets/javascripts
+[1m[32m      create[0m  vendor/assets/javascripts/.gitkeep
+[1m[32m      create[0m  vendor/assets/stylesheets
+[1m[32m      create[0m  vendor/assets/stylesheets/.gitkeep
+[1m[32m      create[0m  vendor/plugins
+[1m[32m      create[0m  vendor/plugins/.gitkeep
+[1m[32m         run[0m  bundle install
+Using rake (10.0.4)
+Using i18n (0.6.1)
+Using multi_json (1.7.3)
+Using erubis (2.7.0)
+Using builder (3.0.4)
+Using journey (1.0.4)
+Using rack (1.4.5)
+Using tilt (1.4.1)
+Using hike (1.2.2)
+Using mime-types (1.23)
+Using polyglot (0.3.3)
+Using arel (3.0.2)
+Using bootstrap-sass (2.0.3.1)
+Using chunky_png (1.2.8)
+Using tzinfo (0.3.37)
+Using coffee-script-source (1.6.2)
+Using json (1.8.0)
+Using columnize (0.3.6)
+Using thor (0.18.1)
+Using fssm (0.2.10)
+Using sass (3.2.9)
+Using daemons (1.1.9)
+Using debugger-linecache (1.2.0)
+Using debugger-ruby_core_source (1.2.0)
+Using eventmachine (1.0.3)
+Using pg (0.15.1)
+Using bundler (1.5.2)
+Using sqlite3 (1.3.7)
+Using activesupport (3.2.13)
+Using execjs (1.4.0)
+Using rack-cache (1.2)
+Using rack-test (0.6.2)
+Using rack-ssl (1.3.3)
+Using treetop (1.4.12)
+Using sprockets (2.2.2)
+Using rdoc (3.12.2)
+Using compass (0.12.2)
+Using debugger (1.5.0)
+Using activemodel (3.2.13)
+Using thin (1.5.1)
+Using coffee-script (2.2.0)
+Using uglifier (2.1.0)
+Using mail (2.5.4)
+Using handlebars_assets (0.12.0)
+Using compass-rails (1.0.3)
+Using actionpack (3.2.13)
+Using activerecord (3.2.13)
+Using activeresource (3.2.13)
+Using actionmailer (3.2.13)
+Using railties (3.2.13)
+Using coffee-rails (3.2.2)
+Using quiet_assets (1.0.2)
+Using rails-api (0.1.0)
+Using rails (3.2.13)
+Using sass-rails (3.2.6)
+Installing active_model_serializers (0.8.1)
+Your bundle is complete!
+Use `bundle show [gemname]` to see where a bundled gem is installed.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                  [0m[27m[24m[J[01;32m~/s/e/[4member-railsapi[24m[00m[33m[00m [36m»[00m [K[124C [01;30m[00m [01;33m± develop*:8392130[00m 13:06:38 [154D[1m[35mb[0m[39m[1m[35mb[1m[35me[0m[39m rake [4md[24m[4md[4mb[24m[24md[24mb:setup
+[31mCould not find rake-10.0.4 in any of the sources[0m
+[33mRun `bundle install` to install missing gems.[0m
+[1m[7m%[27m[1m[0m                                                                                                                                                                                  [0m[27m[24m[J[01;32m~/s/e/[4member-railsapi[24m[00m[33m[00m [36m»[00m [K[124C [01;30m[00m [01;33m± develop*:8392130[00m 13:06:52 [154D[1m[33mr[0m[39m[39m[1m[41mr[1m[41ma[0m[49m[1m[41mr[1m[41ma[1m[41mk[0m[49m[49m[1m[33mr[49m[1m[33ma[49m[1m[33mk[1m[33me[0m[39m [4md[24m[4md[4mb[24m[24md[24mb:setup
+[31mCould not find rake-10.0.4 in any of the sources[0m
+[33mRun `bundle install` to install missing gems.[0m
+[1m[7m%[27m[1m[0m                                                                                                                                                                                  [0m[27m[24m[J[01;32m~/s/e/[4member-railsapi[24m[00m[33m[00m [36m»[00m [K[124C [01;30m[00m [01;33m± develop*:8392130[00m 13:06:58 [154D[1m[35mb[0m[39m[39m[1m[41mb[1m[41mu[0m[49m[1m[41mb[1m[41mu[1m[41mn[0m[49m[1m[41mn[1m[41md[0m[49m[1m[41md[1m[41ml[0m[49m[0m[49m[32mb[0m[49m[32mu[0m[49m[32mn[0m[49m[32md[0m[49m[32ml[32me[39m
+Fetching gem metadata from https://rubygems.org/.........
+Fetching gem metadata from https://rubygems.org/..
+Fetching git://github.com/rails-api/active_model_serializers.git
+remote: Reusing existing pack: 4094, done.[K
+Receiving objects:   0% (1/4094)   Receiving objects:   1% (41/4094)   Receiving objects:   2% (82/4094)   Receiving objects:   3% (123/4094)   Receiving objects:   4% (164/4094)   Receiving objects:   5% (205/4094)   Receiving objects:   6% (246/4094)   Receiving objects:   7% (287/4094)   Receiving objects:   8% (328/4094)   Receiving objects:   9% (369/4094)   Receiving objects:  10% (410/4094)   Receiving objects:  11% (451/4094)   Receiving objects:  12% (492/4094)   Receiving objects:  13% (533/4094)   Receiving objects:  14% (574/4094)   Receiving objects:  15% (615/4094)   Receiving objects:  16% (656/4094)   Receiving objects:  17% (696/4094)   Receiving objects:  18% (737/4094)   Receiving objects:  19% (778/4094)   Receiving objects:  20% (819/4094)   Receiving objects:  21% (860/4094)   Receiving objects:  22% (901/4094)   Receiving objects:  23% (942/4094)   Receiving objects:  24% (983/4094)   Receiving objects:  25% (1024/4094)   Receiving objects:  26% (1065/4094)   Receiving objects:  27% (1106/4094)   Receiving objects:  28% (1147/4094)   Receiving objects:  29% (1188/4094)   Receiving objects:  30% (1229/4094)   Receiving objects:  31% (1270/4094)   Receiving objects:  32% (1311/4094)   Receiving objects:  33% (1352/4094)   Receiving objects:  34% (1392/4094)   Receiving objects:  35% (1433/4094)   Receiving objects:  36% (1474/4094)   Receiving objects:  37% (1515/4094)   Receiving objects:  38% (1556/4094)   Receiving objects:  39% (1597/4094)   Receiving objects:  40% (1638/4094)   Receiving objects:  41% (1679/4094)   Receiving objects:  42% (1720/4094)   Receiving objects:  43% (1761/4094)   Receiving objects:  44% (1802/4094)   Receiving objects:  45% (1843/4094)   Receiving objects:  46% (1884/4094)   Receiving objects:  47% (1925/4094)   Receiving objects:  48% (1966/4094)   Receiving objects:  49% (2007/4094)   Receiving objects:  50% (2047/4094)   Receiving objects:  51% (2088/4094)   Receiving objects:  52% (2129/4094)   Receiving objects:  53% (2170/4094)   Receiving objects:  54% (2211/4094)   Receiving objects:  55% (2252/4094)   Receiving objects:  56% (2293/4094)   Receiving objects:  57% (2334/4094)   Receiving objects:  58% (2375/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  59% (2416/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  60% (2457/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  61% (2498/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  62% (2539/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  63% (2580/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  64% (2621/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  65% (2662/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  66% (2703/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  67% (2743/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  68% (2784/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  69% (2825/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  70% (2866/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  71% (2907/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  72% (2948/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  73% (2989/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  74% (3030/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  75% (3071/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  76% (3112/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  77% (3153/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  78% (3194/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  79% (3235/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  80% (3276/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  81% (3317/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  82% (3358/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  83% (3399/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  84% (3439/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  85% (3480/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  86% (3521/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  87% (3562/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  88% (3603/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  89% (3644/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  90% (3685/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  91% (3726/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  92% (3767/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  93% (3808/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  94% (3849/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  95% (3890/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  96% (3931/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  97% (3972/4094), 452.00 KiB | 783 KiB/s   Receiving objects:  98% (4013/4094), 452.00 KiB | 783 KiB/s   remote: Total 4094 (delta 0), reused 0 (delta 0)[K
+Receiving objects:  99% (4054/4094), 452.00 KiB | 783 KiB/s   Receiving objects: 100% (4094/4094), 452.00 KiB | 783 KiB/s   Receiving objects: 100% (4094/4094), 792.66 KiB | 783 KiB/s, done.
+Resolving deltas:   0% (0/1983)   Resolving deltas:   1% (22/1983)   Resolving deltas:   2% (43/1983)   Resolving deltas:   3% (60/1983)   Resolving deltas:   4% (83/1983)   Resolving deltas:   5% (100/1983)   Resolving deltas:   6% (124/1983)   Resolving deltas:   7% (144/1983)   Resolving deltas:   8% (161/1983)   Resolving deltas:   9% (192/1983)   Resolving deltas:  10% (205/1983)   Resolving deltas:  11% (226/1983)   Resolving deltas:  12% (242/1983)   Resolving deltas:  13% (258/1983)   Resolving deltas:  14% (280/1983)   Resolving deltas:  15% (300/1983)   Resolving deltas:  16% (327/1983)   Resolving deltas:  19% (377/1983)   Resolving deltas:  20% (397/1983)   Resolving deltas:  21% (424/1983)   Resolving deltas:  22% (438/1983)   Resolving deltas:  23% (457/1983)   Resolving deltas:  25% (510/1983)   Resolving deltas:  26% (517/1983)   Resolving deltas:  29% (579/1983)   Resolving deltas:  30% (614/1983)   Resolving deltas:  31% (631/1983)   Resolving deltas:  32% (641/1983)   Resolving deltas:  33% (657/1983)   Resolving deltas:  34% (676/1983)   Resolving deltas:  35% (695/1983)   Resolving deltas:  36% (714/1983)   Resolving deltas:  37% (734/1983)   Resolving deltas:  38% (771/1983)   Resolving deltas:  39% (776/1983)   Resolving deltas:  40% (798/1983)   Resolving deltas:  41% (818/1983)   Resolving deltas:  42% (838/1983)   Resolving deltas:  43% (863/1983)   Resolving deltas:  44% (874/1983)   Resolving deltas:  45% (910/1983)   Resolving deltas:  46% (913/1983)   Resolving deltas:  47% (940/1983)   Resolving deltas:  48% (953/1983)   Resolving deltas:  49% (975/1983)   Resolving deltas:  50% (997/1983)   Resolving deltas:  52% (1039/1983)   Resolving deltas:  53% (1062/1983)   Resolving deltas:  54% (1087/1983)   Resolving deltas:  55% (1094/1983)   Resolving deltas:  56% (1111/1983)   Resolving deltas:  57% (1134/1983)   Resolving deltas:  58% (1151/1983)   Resolving deltas:  59% (1180/1983)   Resolving deltas:  60% (1192/1983)   Resolving deltas:  61% (1210/1983)   Resolving deltas:  62% (1230/1983)   Resolving deltas:  63% (1252/1983)   Resolving deltas:  66% (1312/1983)   Resolving deltas:  67% (1343/1983)   Resolving deltas:  68% (1358/1983)   Resolving deltas:  69% (1371/1983)   Resolving deltas:  70% (1391/1983)   Resolving deltas:  71% (1408/1983)   Resolving deltas:  72% (1443/1983)   Resolving deltas:  73% (1460/1983)   Resolving deltas:  74% (1468/1983)   Resolving deltas:  75% (1488/1983)   Resolving deltas:  76% (1521/1983)   Resolving deltas:  77% (1527/1983)   Resolving deltas:  78% (1551/1983)   Resolving deltas:  80% (1599/1983)   Resolving deltas:  81% (1609/1983)   Resolving deltas:  82% (1627/1983)   Resolving deltas:  83% (1646/1983)   Resolving deltas:  84% (1667/1983)   Resolving deltas:  85% (1690/1983)   Resolving deltas:  88% (1750/1983)   Resolving deltas:  89% (1771/1983)   Resolving deltas:  90% (1785/1983)   Resolving deltas:  91% (1815/1983)   Resolving deltas:  93% (1858/1983)   Resolving deltas:  94% (1866/1983)   Resolving deltas:  95% (1888/1983)   Resolving deltas:  96% (1904/1983)   Resolving deltas:  97% (1924/1983)   Resolving deltas:  98% (1955/1983)   Resolving deltas:  99% (1966/1983)   Resolving deltas: 100% (1983/1983)   Resolving deltas: 100% (1983/1983), done.
+Enter your password to install the bundled RubyGems to your system: 
+
+[33mSystemExit: exit[0m
+[31mAn error occurred while installing rake (10.0.4), and Bundler cannot continue.
+Make sure that `gem install rake -v '10.0.4'` succeeds before bundling.[0m
+[1m[7m%[27m[1m[0m                                                                                                                                                                                  [0m[27m[24m[J[01;32m~/s/e/[4member-railsapi[24m[00m[33m[00m [36m»[00m [K[124C [01;30m[00m [01;33m± develop*:8392130[00m 13:07:16 [154D[4ml[24m[24m[1m[35ml[1m[35ms[0m[39m
+total 232
+drwxr-xr-x  24 jcowhigjr  staff    816 Jun  3 13:06 [34m.[39;49m[0m/
+drwxr-xr-x   5 jcowhigjr  staff    170 Jun  3 12:04 [34m..[39;49m[0m/
+drwxr-xr-x  11 jcowhigjr  staff    374 Jun  3 12:45 [34m.git[39;49m[0m/
+-rw-r--r--   1 jcowhigjr  staff    256 Jun  3 12:04 .gitignore
+-rw-r--r--   1 jcowhigjr  staff      6 Jun  3 12:06 .ruby-version
+-rw-r--r--   1 jcowhigjr  staff    510 Jun  3 12:04 Gemfile
+-rw-r--r--   1 jcowhigjr  staff   3580 Jun  3 12:04 Gemfile.lock
+-rw-r--r--   1 jcowhigjr  staff    216 Jun  3 12:52 README.md
+-rw-r--r--   1 jcowhigjr  staff   9220 Jun  3 12:49 README.rdoc
+-rw-r--r--   1 jcowhigjr  staff    278 Jun  3 12:53 Rakefile
+drwxr-xr-x   9 jcowhigjr  staff    306 Jun  3 12:56 [34mapp[39;49m[0m/
+-rw-r--r--   1 jcowhigjr  staff  35630 Jun  3 13:07 cli.log
+drwxr-xr-x  10 jcowhigjr  staff    340 Jun  3 13:06 [34mconfig[39;49m[0m/
+-rw-r--r--   1 jcowhigjr  staff    163 Jun  3 12:04 config.ru
+drwxr-xr-x   5 jcowhigjr  staff    170 Jun  3 13:06 [34mdb[39;49m[0m/
+drwxr-xr-x   3 jcowhigjr  staff    102 Jun  3 12:04 [34mdoc[39;49m[0m/
+drwxr-xr-x   4 jcowhigjr  staff    136 Jun  3 12:04 [34mlib[39;49m[0m/
+drwxr-xr-x   4 jcowhigjr  staff    136 Jun  3 12:21 [34mlog[39;49m[0m/
+drwxr-xr-x   8 jcowhigjr  staff    272 Jun  3 13:06 [34mpublic[39;49m[0m/
+drwxr-xr-x   3 jcowhigjr  staff    102 Jun  3 12:04 [34mscript[39;49m[0m/
+drwxr-xr-x   8 jcowhigjr  staff    272 Jun  3 13:06 [34mtest[39;49m[0m/
+drwxr-xr-x   3 jcowhigjr  staff    102 Jun  3 13:06 [34mtmp[39;49m[0m/
+-rw-r--r--   1 jcowhigjr  staff  37576 Jun  3 13:07 typescript
+drwxr-xr-x   4 jcowhigjr  staff    136 Jun  3 13:06 [34mvendor[39;49m[0m/
+[1m[7m%[27m[1m[0m                                                                                                                                                                                  [0m[27m[24m[J[01;32m~/s/e/[4member-railsapi[24m[00m[33m[00m [36m»[00m [K[124C [01;30m[00m [01;33m± develop*:8392130[00m 13:07:18 [154D[1m[35mb[0m[39m[39m[1m[41mb[1m[41mu[0m[49m[1m[41mb[1m[41mu[1m[41mn[0m[49m[1m[41mn[1m[41md[0m[49m[1m[41md[1m[41ml[0m[49m[0m[49m[32mb[0m[49m[32mu[0m[49m[32mn[0m[49m[32md[0m[49m[32ml[32me[39m
+Fetching gem metadata from https://rubygems.org/.........
+Fetching gem metadata from https://rubygems.org/..
+Enter your password to install the bundled RubyGems to your system: 
+
+[33mSystemExit: exit[0m
+[31mAn error occurred while installing rake (10.0.4), and Bundler cannot continue.
+Make sure that `gem install rake -v '10.0.4'` succeeds before bundling.[0m
+[1m[7m%[27m[1m[0m                                                                                                                                                                                  [0m[27m[24m[J[01;32m~/s/e/[4member-railsapi[24m[00m[33m[00m [36m»[00m [K[124C [01;30m[00m [01;33m± develop*:8392130[00m 13:07:33 [154D[4mc[24m[24m[1m[33mc[1m[33md[0m[39m [4m.[24m[4m.[4m.[24m[4m.[24m[24m [24m [0m[39m[4mc[24m[0m[39m [24m [1m[33mr[0m[39m[39m[1m[41mr[1m[41mb[0m[49m[1m[41mr[1m[41mb[1m[41me[0m[49m[1m[41me[1m[41mn[0m[49m[49m[1m[33mr[49m[1m[33mb[49m[1m[33me[49m[1m[33mn[1m[33mv[0m[39m rehahs  sh
+[1m[7m%[27m[1m[0m                                                                                                                                                                                  [0m[27m[24m[J[01;32m~/s/e/[4member-railsapi[24m[00m[33m[00m [36m»[00m [K[124C [01;30m[00m [01;33m± develop*:8392130[00m 13:07:42 [154D[1m[41mg[0m[49m[1m[41mg[1m[41mi[0m[49m[49m[1m[35mg[49m[1m[35mi[1m[35mt[0m[39m [4ms[24m[24mstatus
+# On branch develop
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	[31mmodified:   README.md[m
+#	[31mmodified:   Rakefile[m
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	[31m.ruby-version[m
+#	[31mREADME.rdoc[m
+#	[31mapp/assets/images/rails.png[m
+#	[31mapp/assets/javascripts/application.js[m
+#	[31mapp/assets/stylesheets/application.css[m
+#	[31mapp/helpers/[m
+#	[31mapp/views/layouts/[m
+#	[31mcli.log[m
+#	[31mconfig/initializers/backtrace_silencers.rb[m
+#	[31mconfig/initializers/inflections.rb[m
+#	[31mconfig/initializers/mime_types.rb[m
+#	[31mconfig/initializers/secret_token.rb[m
+#	[31mconfig/initializers/session_store.rb[m
+#	[31mpublic/index.html[m
+#	[31mtest/[m
+#	[31mtypescript[m
+#	[31mvendor/assets/javascripts/.gitkeep[m
+#	[31mvendor/assets/stylesheets/[m
+#	[31mvendor/plugins/[m
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                                                                                                                  [0m[27m[24m[J[01;32m~/s/e/[4member-railsapi[24m[00m[33m[00m [36m»[00m [K[124C [01;30m[00m [01;33m± develop*:8392130[00m 13:07:45 [154D[1m[35mb[0m[39m[39m[1m[41mb[1m[41mu[0m[49m[1m[41mb[1m[41mu[1m[41mn[0m[49m[1m[41mn[1m[41md[0m[49m[1m[41md[1m[41ml[0m[49m[0m[49m[32mb[0m[49m[32mu[0m[49m[32mn[0m[49m[32md[0m[49m[32ml[32me[39m install
+Fetching gem metadata from https://rubygems.org/.........
+Fetching gem metadata from https://rubygems.org/..
+Enter your password to install the bundled RubyGems to your system: 
+
+[33mSystemExit: exit[0m
+[31mAn error occurred while installing rake (10.0.4), and Bundler cannot continue.
+Make sure that `gem install rake -v '10.0.4'` succeeds before bundling.[0m
+[1m[7m%[27m[1m[0m                                                                                                                                                                                  [0m[27m[24m[J[01;32m~/s/e/[4member-railsapi[24m[00m[33m[00m [36m»[00m [K[124C [01;30m[00m [01;33m± develop*:8392130[00m 13:08:33 [154D[1m[35me[0m[39m[0m[32me[32mx[39m[39m[1m[41me[39m[1m[41mx[1m[41mi[0m[49m[49m[1m[33me[49m[1m[33mx[49m[1m[33mi[1m[33mt[0m[39m
+
+Script done, output file is cli.log
+15:29.66s total, 24.32s user, 5.03s system, 3% cpu
+[1m[7m%[27m[1m[0m                                                                                                                                                                                  [0m[27m[24m[J[01;32m~/s/e/[4member-railsapi[24m[00m[33m[00m [36m»[00m [K[124C [01;30m[00m [01;33m± develop*:8392130[00m 13:08:35 [154D[1m[35mb[0m[39m[39m[1m[41mb[1m[41mu[0m[49m[1m[41mb[1m[41mu[1m[41mn[0m[49m[1m[41mn[1m[41md[0m[49m[1m[41md[1m[41ml[0m[49m[0m[49m[32mb[0m[49m[32mu[0m[49m[32mn[0m[49m[32md[0m[49m[32ml[32me[39m
+Fetching gem metadata from https://rubygems.org/.........
+Fetching gem metadata from https://rubygems.org/..
+Enter your password to install the bundled RubyGems to your system: 
+
+[33mSystemExit: exit[0m
+[31mAn error occurred while installing rake (10.0.4), and Bundler cannot continue.
+Make sure that `gem install rake -v '10.0.4'` succeeds before bundling.[0m
+[1m[7m%[27m[1m[0m                                                                                                                                                                                  [0m[27m[24m[J[01;32m~/s/e/[4member-railsapi[24m[00m[33m[00m [36m»[00m [K[124C [01;30m[00m [01;33m± develop*:8392130[00m 13:08:52 [154D[4mc[24m[24m[1m[33mc[1m[33md[0m[39m [0m[39m[4mc[24m[0m[39m [24m [1m[33mr[0m[39m[39m[1m[41mr[1m[41ma[0m[49m[1m[41mr[1m[41ma[1m[41mk[0m[49m[49m[1m[33mr[49m[1m[33ma[49m[1m[33mk[1m[33me[0m[39m [39m[1m[41mr[39m[1m[41ma[39m[1m[41mk[0m[49m[0m[39m [1m[41mr[1m[41ma[0m[49m[0m[49m [49m[1m[33mr[0m[39m[0m[49m [0m[39m [1m[33mr[0m[39m[39m[1m[41mr[1m[41mb[0m[49m[1m[41mr[1m[41mb[1m[41me[0m[49m[1m[41me[1m[41mn[0m[49m[49m[1m[33mr[49m[1m[33mb[49m[1m[33me[49m[1m[33mn[1m[33mv[0m[39m 
+rbenv 0.4.0-97-gfe0b243
+Usage: rbenv <command> [<args>]
+
+Some useful rbenv commands are:
+   commands    List all available rbenv commands
+   local       Set or show the local application-specific Ruby version
+   global      Set or show the global Ruby version
+   shell       Set or show the shell-specific Ruby version
+   install     Install a Ruby version using ruby-build
+   uninstall   Uninstall a specific Ruby version
+   rehash      Rehash rbenv shims (run this after installing executables)
+   version     Show the current Ruby version and its origin
+   versions    List all Ruby versions available to rbenv
+   which       Display the full path to an executable
+   whence      List all Ruby versions that contain the given executable
+
+See `rbenv help <command>' for information on a specific command.
+For full documentation, see: https://github.com/sstephenson/rbenv#readme
+[1m[7m%[27m[1m[0m                                                                                                                                                                                  [0m[27m[24m[J[01;32m~/s/e/[4member-railsapi[24m[00m[33m[00m [36m»[00m [K[124C [01;30m[00m [01;33m± develop*:8392130[00m 13:09:00 [154D[1m[33mrbenv[0m[39m [4ml[24m[4ml[4mo[24m[24ml[24mocal
+2.0.0
+[1m[7m%[27m[1m[0m                                                                                                                                                                                  [0m[27m[24m[J[01;32m~/s/e/[4member-railsapi[24m[00m[33m[00m [36m»[00m [K[124C [01;30m[00m [01;33m± develop*:8392130[00m 13:09:03 [154D[1m[41mg[0m[49m[1m[41mg[1m[41mi[0m[49m[49m[1m[35mg[49m[1m[35mi[1m[35mt[0m[39m [4ms[24m[24mstatus
+# On branch develop
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	[31mmodified:   README.md[m
+#	[31mmodified:   Rakefile[m
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	[31m.ruby-version[m
+#	[31mREADME.rdoc[m
+#	[31mapp/assets/images/rails.png[m
+#	[31mapp/assets/javascripts/application.js[m
+#	[31mapp/assets/stylesheets/application.css[m
+#	[31mapp/helpers/[m
+#	[31mapp/views/layouts/[m
+#	[31mcli.log[m
+#	[31mconfig/initializers/backtrace_silencers.rb[m
+#	[31mconfig/initializers/inflections.rb[m
+#	[31mconfig/initializers/mime_types.rb[m
+#	[31mconfig/initializers/secret_token.rb[m
+#	[31mconfig/initializers/session_store.rb[m
+#	[31mpublic/index.html[m
+#	[31mtest/[m
+#	[31mtypescript[m
+#	[31mvendor/assets/javascripts/.gitkeep[m
+#	[31mvendor/assets/stylesheets/[m
+#	[31mvendor/plugins/[m
+no changes added to commit (use "git add" and/or "git commit -a")
+[1m[7m%[27m[1m[0m                                                                                                                                                                                  [0m[27m[24m[J[01;32m~/s/e/[4member-railsapi[24m[00m[33m[00m [36m»[00m [K[124C [01;30m[00m [01;33m± develop*:8392130[00m 13:09:07 [154D[1m[35me[0m[39m[0m[32me[32mx[39m[39m[1m[41me[39m[1m[41mx[1m[41mi[0m[49m[49m[1m[33me[49m[1m[33mx[49m[1m[33mi[1m[33mt[0m[39m
+
+Script done on Tue Jun  3 13:09:17 2014
