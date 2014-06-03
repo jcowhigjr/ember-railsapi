@@ -6,3 +6,4 @@ This is an example app I have been building to test out using
 
 This is a work in progress.
 
+rails-api application new .
