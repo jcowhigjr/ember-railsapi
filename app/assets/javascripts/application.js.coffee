@@ -16,6 +16,7 @@
 #= require ember
 #= require ember-data
 #= require bootstrap
+#= require ember-bootstrap/all
 #= require_self
 #= require store
 #= require routes
