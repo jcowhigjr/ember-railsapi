@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 ruby '2.1.1'
 
-gem 'rails', '3.2.13'
+gem 'rails', '~>4.0'
 gem 'rails-api'
 gem 'thin'
 gem 'active_model_serializers', :github => 'rails-api/active_model_serializers'
@@ -18,11 +18,11 @@ group :production do
 end
 
 group :assets do
-  gem 'sass-rails', '~> 3.2'
-  gem 'coffee-rails', '~> 3.2'
+  gem 'sass-rails'
+  gem 'coffee-rails'
   gem 'compass-rails'
   gem 'uglifier'
-  gem 'bootstrap-sass', '~> 2.0.3.0'
+  gem 'bootstrap-sass'
   gem 'handlebars_assets'
 end
 
