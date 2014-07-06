@@ -7,13 +7,6 @@ GIT
       rails
 
 GIT
-  remote: git://github.com/meelash/ember-bootstrap-rails.git
-  revision: 6dfa591e3c9c6819e0d2993b6e4992f2aaa41624
-  specs:
-    ember-bootstrap-rails (0.0.4)
-      rails (>= 3.1.0)
-
-GIT
   remote: git://github.com/rails-api/active_model_serializers.git
   revision: e185becd5d007da2f951d1f88c8872a2deb929e5
   specs:
@@ -185,7 +178,6 @@ DEPENDENCIES
   coffee-rails
   compass-rails
   debugger
-  ember-bootstrap-rails!
   ember-rails
   ember-source (= 1.5.0)
   ember_script-rails!
